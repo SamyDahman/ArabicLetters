@@ -15,7 +15,7 @@ const App = () => {
           drawings of the arabic letters with around 91.16% accuracy. The orginal dataset comes from a study and research paper out 
           of Egypt. The libraries and frameworks used in its contruction were React JS, Tensorflow JS, and Tensorflow.
           The process for creating the model started with a python script run using Google Colab in order to train a convolutional
-          neural net that was contructed using the Tensorflow library. From there, the model was exported. You can find that script
+          neural net that was constructed using the Tensorflow library. From there, the model was exported. You can find that script
           at this <a href="https://github.com/SamyDahman/ArabicLettersTrainingScript">repository</a> on my Github account.
         </p1>
         <p1 className="description-text">Citation for Data: A. El-Sawy, M. Loey, and H. EL-Bakry, “Arabic handwritten characters recognition using convolutional
