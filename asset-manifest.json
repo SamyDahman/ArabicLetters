@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ArabicLetters/static/css/main.bd0d8262.chunk.css",
+    "main.js": "/ArabicLetters/static/js/main.f42b3178.chunk.js",
+    "main.js.map": "/ArabicLetters/static/js/main.f42b3178.chunk.js.map",
+    "runtime-main.js": "/ArabicLetters/static/js/runtime-main.19928228.js",
+    "runtime-main.js.map": "/ArabicLetters/static/js/runtime-main.19928228.js.map",
+    "static/js/2.14b0da91.chunk.js": "/ArabicLetters/static/js/2.14b0da91.chunk.js",
+    "static/js/2.14b0da91.chunk.js.map": "/ArabicLetters/static/js/2.14b0da91.chunk.js.map",
+    "static/js/3.2fdba96e.chunk.js": "/ArabicLetters/static/js/3.2fdba96e.chunk.js",
+    "static/js/3.2fdba96e.chunk.js.map": "/ArabicLetters/static/js/3.2fdba96e.chunk.js.map",
+    "index.html": "/ArabicLetters/index.html",
+    "static/css/main.bd0d8262.chunk.css.map": "/ArabicLetters/static/css/main.bd0d8262.chunk.css.map",
+    "static/js/2.14b0da91.chunk.js.LICENSE.txt": "/ArabicLetters/static/js/2.14b0da91.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.19928228.js",
+    "static/js/2.14b0da91.chunk.js",
+    "static/css/main.bd0d8262.chunk.css",
+    "static/js/main.f42b3178.chunk.js"
+  ]
+}
